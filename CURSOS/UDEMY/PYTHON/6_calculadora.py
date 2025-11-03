@@ -3,7 +3,7 @@
 print("################ PROJETO CALCULADORA ############################")
 try:
     while True:
-        deseja_iniciar = input("deseja fazer conta [S] sim [N] não")
+        deseja_iniciar = input("deseja fazer conta [S] sim [N] não ")
         deseja_iniciar = deseja_iniciar.upper()
         
         if deseja_iniciar == "S":
