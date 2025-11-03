@@ -10,7 +10,7 @@ try:
 
             numero_1 = int(input("digite um numero : "))
             numero_2 = int(input("digite outro numero : "))
-
+            print("os operadores validos são [+,-,*,/]")
             digite_operadores = input("digite um operador : ")
 
             if digite_operadores == "+": 
